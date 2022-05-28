@@ -1,19 +1,19 @@
 # 4psia-ML-face-mask-detection-system
 
-# Preparation
+## Preparation
 Sebelum menjalankan, ada beberapa poin yang harus dilakukan dulu
+1. Install library yang dibutuhkan, include:
+   - tensorflow
+   - imutils
+   - cv2
+   - soundfile
+   - sounddevice (seingatku ini sepaket sama soundfile)
+2. Pastikan sudah extract semuanya dalam satu folder (kalau pake git clone harusnya gk masalah)
+3. Tekan 'q' untuk exit
 
-Install library yang dibutuhkan, include:
-1. tensorflow
-2. imutils
-3. cv2
-4. soundfile
-5. sounddevice 
-Pastikan sudah extract semuanya dalam satu folder 
-Tekan 'q' untuk exit
 
-# Todo
- 1. UI untuk pilih kamera dan upload alarm sendiri.
- 2. Tekan "Close" untuk menutup app.
+## Todo 
+- [ ] UI untuk pilih kamera dan upload alarm sendiri.
+- [ ] Tekan "Close" untuk menutup app.
  
  
