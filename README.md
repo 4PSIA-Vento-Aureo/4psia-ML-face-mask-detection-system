@@ -7,8 +7,8 @@ Sebelum menjalankan, ada beberapa poin yang harus dilakukan dulu
    - imutils
    - cv2
    - soundfile
-   - sounddevice (seingatku ini sepaket sama soundfile)
-2. Pastikan sudah extract semuanya dalam satu folder (kalau pake git clone harusnya gk masalah)
+   - sounddevice 
+2. Pastikan sudah extract semuanya dalam satu folder 
 3. Tekan 'q' untuk exit
 
 
