@@ -1,4 +1,4 @@
-# face-mask-detection-4psia
+# 4psia-ML-face-mask-detection-system
 
 ## Preparation
 Sebelum menjalankan, ada beberapa poin yang harus dilakukan dulu
